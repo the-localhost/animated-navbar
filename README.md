@@ -3,6 +3,8 @@ I've implemented a cool animated navigation bar, which can be directly used in s
 
 This makes our site look much more modern, and UI improves a lot.
 
-You can **enjoy my project [here](https://the-localhost.github.io/animated-navbar/).**
+**ENJOY** my project [here](https://the-localhost.github.io/animated-navbar/).
+
+Feel free to *fork/clone* and add it to your project!
 
 ### FEEDBACKS/SUGGESTIONS are welcome!
